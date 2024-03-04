@@ -96,3 +96,8 @@ class NewprojectApp:
 if __name__ == "__main__":
     app = NewprojectApp()
     app.run()
+
+
+
+
+# dodałem testowy komentarzyk uwu
