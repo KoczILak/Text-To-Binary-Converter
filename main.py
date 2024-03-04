@@ -58,6 +58,7 @@ class NewprojectApp:
             rely=0.15,
             x=0,
             y=0)
+        # przycisk uwu
         button1 = ttk.Button(toplevel2)
         button1.configure(text='GENERUJ I KOPIUJ DO SCHOWKA', command = genandcopy)
         button1.place(
